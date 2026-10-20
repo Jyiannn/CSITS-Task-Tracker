@@ -1,0 +1,10 @@
+# Runtime data (recreated automatically on first run)
+data/tasks.json
+data/*.tmp
+data/.lock
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
